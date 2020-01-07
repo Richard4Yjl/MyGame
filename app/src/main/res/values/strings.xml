@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="welcome">Welcome To My Game</string>
+    <string name="tictactoe">Tic Tac Toe</string>
+    <string name="tictactoe_message">Welcome To TicTacToe\nPress \"Start\" To Begin!\nPress \"Restart\" To Restart</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="player1_win">Player1 Wins!!</string>
+    <string name="player2_win">Player2 Wins!!</string>
+    <string name="player1_turn">Player1 Turn</string>
+    <string name="player2_turn">Player2 Turn</string>
+    <string name="is_draw">This is a draw!!</string>
+</resources>
