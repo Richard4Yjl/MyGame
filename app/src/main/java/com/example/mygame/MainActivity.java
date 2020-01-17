@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, TicTacToeActivity.class);
         startActivity(intent);
     }
+
+    public void PuzzleGame(View view) {
+        Intent intent = new Intent(this, PuzzleActivity.class);
+        startActivity(intent);
+    }
 }

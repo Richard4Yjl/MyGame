@@ -10,4 +10,5 @@
     <string name="player1_turn">Player1 Turn</string>
     <string name="player2_turn">Player2 Turn</string>
     <string name="is_draw">This is a draw!!</string>
+    <string name="puzzle">Puzzle</string>
 </resources>
